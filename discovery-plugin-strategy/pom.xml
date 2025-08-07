@@ -30,5 +30,6 @@
         <module>discovery-plugin-strategy-starter-sentinel-opentracing</module>
         <module>discovery-plugin-strategy-starter-sentinel-skywalking</module>
         <module>discovery-plugin-strategy-starter-sentinel-micrometer</module>
+        <module>discovery-plugin-strategy-starter-service-retrofit</module>
     </modules>
 </project>
